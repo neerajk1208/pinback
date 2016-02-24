@@ -1,6 +1,6 @@
-# Greenfield API Documentation
+# Pinback API Documentation
 
-Our Greenfield API allows you to perform all the operations required to interact with our web client. The API utilizes REST principles to ensure clear and predictable paths that make writing applications straightforward. 
+Our Pinback API allows you to perform all the operations required to interact with our web client. The API utilizes REST principles to ensure clear and predictable paths that make writing applications straightforward. 
 
 # HTTP Methods
 
